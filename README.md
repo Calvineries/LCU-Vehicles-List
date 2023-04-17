@@ -1,5 +1,5 @@
 # LCU-Vehicles-List
-| Test          | Testing                      |
+| Test|Testing|
 |--------------|----------------------------|
 | TestA     | example.com       |
 | TestB   | example.com     |
