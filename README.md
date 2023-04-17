@@ -3,7 +3,7 @@
 
 "Is in COLLECTION.TXT?" = Is the vehicle in the terminal?
 
-"Works in COLLECTION.TXT?" = Can we spawn the vehicle if we add it manually in the COLLECTION.TXT file?
+"Works in COLLECTION.TXT?" = Can we spawn the vehicle and does the vehicle work if we add it manually in the COLLECTION.TXT file?
 
 ---
 
