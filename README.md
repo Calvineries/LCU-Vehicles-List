@@ -1,5 +1,5 @@
 # LCU-Vehicles-List
-| Test|Testing|
+|Vehicle Name|Is in TRAFFICVEHICLEGROUPS.TXT?|Works in COLLECTION.TXT?
 |--------------|----------------------------|
 | TestA     | example.com       |
 | TestB   | example.com     |
