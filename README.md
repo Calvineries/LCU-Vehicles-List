@@ -54,9 +54,9 @@ CIVIC_WARDEN|❌|❌|❌
 Folder: EMPLACEMENTS
 |Vehicle Name|Is in TRAFFICVEHICLEGROUPS.TXT?|Is in COLLECTION.TXT?|Works in COLLECTION.TXT?
 |-|-|-|-|
-EMPLACEMENTS_FRAMEWORK|❌|❌|❓
-EMPLACEMENTS_SOAKER|❌|❌|❓
-EMPLACEMENTS_WORKER|❌|❌|❓
+EMPLACEMENTS_FRAMEWORK|❌|❌|❌ (spawnable but we can't drive)
+EMPLACEMENTS_SOAKER|❌|❌|❌ (spawnable but we can't drive)
+EMPLACEMENTS_WORKER|❌|❌|❌ (spawnable but we can't drive)
 ---
 
 Folder: FARM
@@ -194,19 +194,19 @@ POLICE_VIGILANT|✅|✅|✅
 Folder: RC_CARS
 |Vehicle Name|Is in TRAFFICVEHICLEGROUPS.TXT?|Is in COLLECTION.TXT?|Works in COLLECTION.TXT?
 |-|-|-|-|
-RC_CARS_AQUANAUT|❌|❌|❌
-RC_CARS_BUBBLE|❌|❌|❌
-RC_CARS_EXPEDITER|❌|❌|❌
-RC_CARS_JETSAM|❌|❌|❌
-RC_CARS_NEEDLE|❌|❌|❌
-RC_CARS_OPHION|❌|❌|❌
-RC_CARS_PHOTON|❌|❌|❌
-RC_CARS_SCOONER|❌|❌|❌
-RC_CARS_SHRAPNEL|❌|❌|❌
-RC_CARS_SPOOK|❌|❌|❌
-RC_CARS_STARCOMET|❌|❌|❌
-RC_CARS_X95SENSOR|❌|❌|❌
-RC_CARS_XCAVATA|❌|❌|❌
+RC_CARS_AQUANAUT|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_BUBBLE|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_EXPEDITER|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_JETSAM|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_NEEDLE|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_OPHION|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_PHOTON|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_SCOONER|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_SHRAPNEL|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_SPOOK|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_STARCOMET|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_X95SENSOR|❌|❌|❌ (spawnable but we can't drive)
+RC_CARS_XCAVATA|❌|❌|❌ (spawnable but we can't drive)
 ---
 
 Folder: SALOONCARS
