@@ -145,7 +145,7 @@ NAVAL_LIBERTY|✅|❌|✅
 NAVAL_RUBADUB|❌|❌|❌
 NAVAL_SKIMMER|❌|❌|✅
 NAVAL_SURGER|✅|❌|✅
-NAVAL_TRAGHETTI|❌|❌|❓
+NAVAL_TRAGHETTI|❌|❌|❌ (does not appear in list)
 ---
 
 Folder: NOVELTY
