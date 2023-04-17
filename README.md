@@ -5,6 +5,8 @@
 
 "Works in COLLECTION.TXT?" = Can we spawn the vehicle if we add it manually in the COLLECTION.TXT file?
 
+---
+
 Folder: 2016
 |Vehicle Name|Is in TRAFFICVEHICLEGROUPS.TXT?|Is in COLLECTION.TXT?|Works in COLLECTION.TXT?
 |-|-|-|-|
