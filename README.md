@@ -1,4 +1,8 @@
 # LCU-Vehicles-List
+"Is in TRAFFICVEHICLEGROUPS.TXT?" = Can the vehicle be driven by an npc?
+"Is in COLLECTION.TXT?" = Is the vehicle in the terminal?
+"Works in COLLECTION.TXT?" = Can we spawn the vehicle if we add it manually in the COLLECTION.TXT file?
+
 Folder: 2016
 |Vehicle Name|Is in TRAFFICVEHICLEGROUPS.TXT?|Is in COLLECTION.TXT?|Works in COLLECTION.TXT?
 |-|-|-|-|
