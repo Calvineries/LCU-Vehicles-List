@@ -278,7 +278,7 @@ Folder: TRAINS
 |Vehicle Name|Is in TRAFFICVEHICLEGROUPS.TXT?|Is in COLLECTION.TXT?|Works in COLLECTION.TXT?
 |-|-|-|-|
 TRAINS_COURSER|❌|❌|✅
-TRAINS_CYDONIA|❌|❌|❓
+TRAINS_CYDONIA|❌|❌|❌ (does not appear in list)
 TRAINS_EMERALDNIGHT|❌|❌|✅
 TRAINS_FUELCARRIAGE|❌|❌|❌ (does not move)
 TRAINS_TOILER|❌|❌|✅
