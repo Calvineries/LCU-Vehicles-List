@@ -73,7 +73,7 @@ FIRE_CAMEL|❌|✅|✅
 FIRE_DOUSER|✅|✅|✅
 FIRE_EXTENDER|❌|✅|✅
 FIRE_INFERNO|✅|✅|✅
-FIRE_OCTOPUS|❌|❌|❓
+FIRE_OCTOPUS|❌|❌|✅
 FIRE_TRACKER|✅|✅|✅
 ---
 
