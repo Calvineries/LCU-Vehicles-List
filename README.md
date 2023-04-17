@@ -13,6 +13,7 @@ Folder: 2016
 2016_SUV_GIANT|✅|✅|✅
 2016_VAN_HANKER|✅|✅|✅
 ---
+
 Folder: AIRCRAFT
 |Vehicle Name|Is in TRAFFICVEHICLEGROUPS.TXT?|Is in COLLECTION.TXT?|Works in COLLECTION.TXT?
 |-|-|-|-|
