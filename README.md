@@ -1,3 +1,4 @@
+(Character List : https://github.com/Calvineries/Lego-Games-Character-List/blob/main/city-undercover.md)
 # LCU-Vehicles-List
 "Is in TRAFFICVEHICLEGROUPS.TXT?" = Can the vehicle be driven by an npc?
 
